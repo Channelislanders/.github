@@ -10,6 +10,6 @@ Multiple resources will be used to complete this project:
 - GitHub 
 - Pangeo API
 - VS Code
-- Taylor Server 
+- Taylor Server provided by the Bren School
 - JupyterLab 
 - Google Drive 
