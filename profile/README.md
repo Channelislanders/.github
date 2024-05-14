@@ -8,7 +8,7 @@ Channel Islands Marine Sanctuary (CINMS) comprises 1,470 square miles surroundin
 The objective of this project is to develop an educational toolkit and an interactive, Python-based web application to visualize ecologically significant climate variables within Channel Islands and Southern California. These notebooks can be used by any climate scientist or researcher interested in utilizing large ensemble climate models, particularly CESM1.0 dataset. The web application will be used by Channel Islands Marine Sanctuary staff in collaboration with Dr. Stevenson-Michener to develop new indicators of shocks to marine ecosystems. The educational toolkit, composed of Jupyter notebooks, will be part of the ongoing development to promote the use of large ensembles through the Climate DataLab training environment.
 
 # Tools and software used in this project
-Multiple resources will be used to complete this project: 
+Multiple resources are used to complete this project: 
 - GitHub
 - Pangeo Tutorials
 - VS Code
