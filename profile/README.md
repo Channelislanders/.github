@@ -34,7 +34,9 @@ The file structure is as seen below:
 
 ### Contributors
 Project manager: [Patricia Park](https://github.com/p-park6)
+
 Communications manager: [Olivia Holt](https://github.com/olleholt)
+
 Data Manager/ Product Leader: [Diana Navarro](https://github.com/dianaxnav)
 
 Client/Faculty Advisor: [Samantha Stevenson](https://github.com/samanthastevenson)
