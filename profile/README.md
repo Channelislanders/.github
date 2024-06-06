@@ -2,6 +2,7 @@
 
 ![19364fe3e2c282662387f2b2e2aaa1d4-3](https://github.com/Channelislanders/.github/assets/141291457/fb7b76f2-010a-440c-b900-103735caec50)
 
+Source: Marine Emporium Landing
 
 This is a repository holding all code relating to the development of a training toolkit and the web application for the [Channel Islands National Marine Sanctuary](https://channelislands.noaa.gov/) as well as the [Climate Data Lab](https://climate-datalab.org/) use. This is a capstone project for the [Master of Environmental Data Science at Bren School of Environmental Science and Management](https://bren.ucsb.edu), University of California, Santa Barbara.
 
