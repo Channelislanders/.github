@@ -1,5 +1,7 @@
 # Development of an Interactive Visualization and Training Toolkit for Climate Impacts on the Channel Islands National Marine Sanctuary 
 
+https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.marineemporiumlanding.com%2Fchannel-islands-national-park.html&psig=AOvVaw23SQUx1gblhsJbVsWnhLUQ&ust=1717731420408000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODJsayGxoYDFQAAAAAdAAAAABAE![image](https://github.com/Channelislanders/.github/assets/141291457/40f6dd8c-f3f5-436b-9f8b-5ac581d29537)
+
 This is a repository holding all code relating to the development of a training toolkit and the web application for the [Channel Islands National Marine Sanctuary](https://channelislands.noaa.gov/) as well as the [Climate Data Lab](https://climate-datalab.org/) use. This is a capstone project for the [Master of Environmental Data Science at Bren School of Environmental Science and Management](https://bren.ucsb.edu), University of California, Santa Barbara.
 
 A brief summary on this project can be found on the Bren website found [here](https://bren.ucsb.edu/projects/development-interactive-visualization-and-training-toolkit-climate-impacts-channel-islands).
